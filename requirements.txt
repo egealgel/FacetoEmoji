@@ -1,0 +1,7 @@
+opencv-python>=4.8
+deepface>=0.0.93
+mediapipe>=0.10.14
+pilmoji>=2.0
+Pillow>=10.0
+numpy>=1.26
+tf-keras
