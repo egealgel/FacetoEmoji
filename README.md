@@ -4,8 +4,6 @@ Real-time webcam-based facial expression to emoji renderer.
 The left half of the window shows the camera feed; the right half displays
 a large, crisp emoji that matches your current expression or gesture.
 
-![demo placeholder — record one with QuickTime and drop it here]()
-
 ## Features
 
 - **7 base emotions** via [DeepFace](https://github.com/serengil/deepface):
